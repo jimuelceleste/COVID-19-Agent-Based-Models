@@ -11,4 +11,5 @@ Model dependencies:
 The results of our studies on COVID-19 modeling may be accessed in xxx.
 
 [1] Minoza JMA, Sevilleja JE, de Castro R, Caoili SE, Bongolan VP. Protection after Quarantine: Insights from a Q-SEIR Model with Nonlinear Incidence Rates Applied to COVID-19. medRxiv; 2020. DOI: 10.1101/2020.06.06.20124388.
+
 [2] Prem K, Cook AR, Jit M (2017) Projecting social contact matrices in 152 countries using contact surveys and demographic data. PLOS Computational Biology 13(9): e1005697. https://doi.org/10.1371/journal.pcbi.1005697
