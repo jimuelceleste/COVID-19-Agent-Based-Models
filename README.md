@@ -1,6 +1,6 @@
 # COVID-19-Agent-Based-Models
 
-This repository contains the three variations of our COVID-19 Agent-Based Model developed at the System Modeling and Simulation Laboratory (Department of Computer Science, University of the Philippines Diliman). There are three variations here: 1) Agent-Based Model for Quezon City (a coronavirus hot-spot), 2) a "generic" model with contact probabilities, and 3) a multi-space model with contact probabilities. All these models are based on the Age-Stratified, Quarantine Modified SEIR with Non-linear Incidence Rates [1]. The contact probabilities were taken from the study of Prem et al. [2]
+This repository contains the three variations of our COVID-19 Agent-Based Model developed at the System Modeling and Simulation Laboratory (Department of Computer Science, University of the Philippines Diliman). The variations are as follows: 1) Agent-Based Model for Quezon City (a coronavirus hot-spot), 2) a "generic" model with contact probabilities, and 3) a multi-space model with contact probabilities. All these models are based on the Age-Stratified, Quarantine Modified SEIR with Non-linear Incidence Rates [1]. The contact probabilities were taken from the study of Prem et al. [2]
 
 Model dependencies: 
 - Mesa 
