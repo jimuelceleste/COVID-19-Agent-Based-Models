@@ -1,1 +1,1 @@
-# COVI-19-Agent-Based-Model
+# COVID-19-Agent-Based-Model
