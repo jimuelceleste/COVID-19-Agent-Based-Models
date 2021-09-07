@@ -4,7 +4,7 @@ This repository contains the three versions of our COVID-19 Agent-Based Model de
 
 Model dependencies: 
 - Mesa 
-- MesaGeo (for variation 1 only)
+- MesaGeo (for version 1 only)
 - Pandas 
 - Numpy
 
